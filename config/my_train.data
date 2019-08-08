@@ -1,4 +1,4 @@
 classes= 20
-train=data/mydata/train.txt
-names=data/mydata.names
+train=_to_google/data/mydata/train.txt
+names=_to_google/data/mydata.names
 backup=backup/
